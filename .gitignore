@@ -1,0 +1,8 @@
+.vscode/
+.idea/
+build/
+dist/
+
+*.whl
+*.gz
+*.egg-info
