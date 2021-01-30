@@ -6,3 +6,5 @@ dist/
 *.whl
 *.gz
 *.egg-info
+runner.py
+*.pyc
